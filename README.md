@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-
+### :woman_technologist: About Me :
 🔭 I’m currently working on *[DATACAMP, Data Science]* program
 - 🌱 I’m currently learning *android(Kotlin)*
 - 💬 Ask me about data analysis
@@ -15,6 +15,7 @@
 -    how to reach me:**[@bosiborianniie](https://twitter.com/bosiborianniie)**
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love reading books
+
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/annete-bosibori-963084206">
@@ -26,6 +27,7 @@
   </div>
   
   <div>
+ ### :hammer_and_wrench: Languages and Tools :
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
