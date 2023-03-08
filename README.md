@@ -40,7 +40,6 @@
 
 
 ### :fire: My Stats :
-user=bosiborileo&theme=default&hide_border=false&border_radius=4.5&locale=en&date_format=&mode=daily&type=svg&properties=background
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bosiborileo)](https://git.io/streak-stats
   
 
