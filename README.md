@@ -40,9 +40,9 @@
 
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/demo/?user=bosiborileo&theme=default&hide_border=false&border_radius=4.5&locale=en&date_format=&mode=daily&type=svg&properties=background
+user=bosiborileo&theme=default&hide_border=false&border_radius=4.5&locale=en&date_format=&mode=daily&type=svg&properties=background
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bosiborileo)](https://git.io/streak-stats
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bosiborileo&layout=compact&theme=vision-friendly-dark)](https://https://github.com/bosiborileo-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bosiborileo&layout=compact&theme=vision-friendly-dark)]
 
   
