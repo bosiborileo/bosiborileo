@@ -8,8 +8,8 @@
 </h1>
 
 ### :woman_technologist: About Me :
-- 🔭I'm currently working on ALX-DATASCIENCE Scholarship program
-🔭 I’m currently working on *[DATACAMP, Data Science]* program
+- I'm currently working on *[ALX-DATASCIENCE Scholarship]* program
+-🔭 I’m currently working on *[DATACAMP, Data Science]* program
 - 🌱 I’m currently learning *android(Kotlin)*
 - 💬 Ask me about data analysis
 - 📫 How to reach me:*annetesamson@gmail.com 
