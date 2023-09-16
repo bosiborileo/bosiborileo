@@ -10,7 +10,6 @@
 ### :woman_technologist: About Me :
 - I'm currently working on *[ALX-DATASCIENCE Scholarship]* program
 -🔭 I’m currently working on *[AWS,ML/AI]* program
-- 🌱 I’m currently learning *android(Kotlin)*
 - 💬 Ask me about data analysis
 - 📫 How to reach me:*annetesamson@gmail.com 
 -    how to reach me:**[@bosiborianniie](https://twitter.com/bosiborianniie)**
@@ -49,6 +48,10 @@ Languages and Tools :
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bosiborileo)]
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/bosiborileo/bosiborileo/github-readme-stats)
+
+
   
 
   
