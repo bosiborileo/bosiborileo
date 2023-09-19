@@ -51,7 +51,7 @@ Languages and Tools :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
 
 ![Bosiborileo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bosiborileo&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Bosiborileo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bosiborileo&show_icons=true)
+
 
 
   
