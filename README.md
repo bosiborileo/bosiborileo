@@ -50,6 +50,7 @@ Languages and Tools :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bosiborileo)]
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/bosiborileo/bosiborileo/github-readme-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=bosiborileo&theme=highcontrast&show_icons=true&count_private=true
 
 
   
