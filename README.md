@@ -49,8 +49,11 @@ Languages and Tools :
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bosiborileo)]
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/bosiborileo/bosiborileo/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bosiborile0&show_icons=true&theme=radical)
+[![Bosiborileo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bosiborileo)](https://github.com/bosiborileo/github-readme-stats)
+![Bosiborileo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bosiborileo&hide=contribs,prs)
+![Bosiborileo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bosiborileo&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Bosiborileo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bosiborileo&show_icons=true)
+![Bosiborileo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bosiborile0&show_icons=true&theme=radical)
 
 
   
