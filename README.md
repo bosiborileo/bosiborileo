@@ -27,9 +27,8 @@
   </div>
   
   <div>
-Languages and Tools :
- 
- 
+   
+Languages and Tools : 
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -38,20 +37,10 @@ Languages and Tools :
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
- <p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=bosibori&theme=github-dark" /></p>
-
- 
- 
+ <p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=bosibori&theme=github-dark" /></p> 
 </div>
 
-
-
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bosiborileo)]
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=)]
-![Bosiborileo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bosiborileo&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bosiborileo&show_icons=true&include_all_commits=true&theme=radical" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bosiborileo&layout=compact&theme=radical" alt="ndaruga" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bosiborileo&layout=compact&theme=radical" /></p>
