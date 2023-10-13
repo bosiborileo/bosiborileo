@@ -52,6 +52,14 @@ Languages and Tools :
 ![Bosiborileo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bosiborileo&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bosiborileo&show_icons=true&include_all_commits=true&theme=radical" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bosiborileo&layout=compact&theme=radical" alt="ndaruga" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bosiborileo&layout=compact&theme=radical" /></p>
+<!-- <p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=bosibori&theme=github-compact" /></p> -->
+<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=bosiborileo&theme=github-compact" /></p>
+
+
+
 
   
 
