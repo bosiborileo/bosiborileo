@@ -14,7 +14,7 @@
 - 📫 How to reach me:*annetesamson@gmail.com 
 -    how to reach me:**[@bosiborianniie](https://twitter.com/bosiborianniie)**
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love reading books
+- ⚡ Fun fact: I'm very shy and uptight
 
 
 <div id="badges">
