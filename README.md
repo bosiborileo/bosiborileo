@@ -13,9 +13,7 @@
 - 💬 Ask me about data analysis
 - 📫 How to reach me:*annetesamson@gmail.com 
 -    how to reach me:**[@bosiborianniie](https://twitter.com/bosiborianniie)**
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm very shy and uptight
-
+- 😄 Pronouns: she/it
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/annete-bosibori-963084206">
@@ -47,7 +45,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bosiborileo&show_icons=true&include_all_commits=true&theme=radical" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bosiborileo&layout=compact&theme=radical" alt="ndaruga" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bosiborileo&layout=compact&theme=radical" /></p>
-<!-- <p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=bosibori&theme=github-compact" /></p> -->
+<p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=bosibori&theme=github-compact" /></p>
 <p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=bosiborileo&theme=github-compact" /></p>
 
 
