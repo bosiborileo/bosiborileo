@@ -40,7 +40,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
  <p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=bosibori&theme=github-dark" /></p> 
 </div>
-
+## 📈 Activity Graph
+<p align="center">
+	<img src="https://activity-graph.herokuapp.com/graph?username=bosiborileo&theme=minimal"/>
+</p>
 ### :fire: My Stats :
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bosiborileo&show_icons=true&include_all_commits=true&theme=radical" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bosiborileo&layout=compact&theme=radical" alt="ndaruga" /></p>
