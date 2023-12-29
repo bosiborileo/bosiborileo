@@ -11,9 +11,9 @@
 - I'm currently working on *[ALX-DATASCIENCE Scholarship]* program
 -🔭 I’m currently working on *[AWS,ML/AI]* program
 - 💬 Ask me about data analysis
-- 📫 How to reach me:*annetesamson@gmail.com 
+- 📫 How to reach me:*annetesamson@gmail.com*
 -    how to reach me:**[@bosiborianniie](https://twitter.com/bosiborianniie)**
-- 😄 Pronouns: she/it
+- 😄 Pronouns: she/hers
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/annete-bosibori-963084206">
@@ -38,7 +38,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
- <p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=bosibori&theme=github-dark" /></p> 
+ </p> 
 </div>
 
 ## 💳 Github Profile Summary Card
