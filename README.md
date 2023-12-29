@@ -51,6 +51,7 @@
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=bosiborileo&show_icons=true&theme=vue" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bosiborileo&theme=vue" />
 </p>
+[![](https://visitcount.itsvg.in/api?id=bosiborileo&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
 
