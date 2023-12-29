@@ -46,13 +46,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bosiborileo&theme=vue"/>
 </p>
 
-### :fire: My Stats :
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bosiborileo&show_icons=true&include_all_commits=true&theme=radical" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bosiborileo&layout=compact&theme=radical" alt="ndaruga" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bosiborileo&layout=compact&theme=radical" /></p>
-<p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=bosibori&theme=github-compact" /></p>
-<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=bosiborileo&theme=github-compact" /></p>
-
+## 📟 GitHub Stats
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=bosiborileo&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bosiborileo&theme=vue" />
+</p>
 
 
 
