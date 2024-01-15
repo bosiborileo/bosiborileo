@@ -14,6 +14,7 @@
 - 📫 How to reach me:*annetesamson@gmail.com*
 -    how to reach me:**[@bosiborianniie](https://twitter.com/bosiborianniie)**
 - 😄 Pronouns: she/hers
+  <p>I am a data analyst deeply passionate about machine learning and fascinated by all aspects of AI. Beyond my analytical role, I engage in part-time graphic design and IT support, showcasing versatility in both creative and technical spheres. A genuine consumer of art, I appreciate music, literature, poetry, and paintings, considering myself somewhat crafty. I find joy in sitcoms, stand-up comedy, and, of course, the world of data. Overall, my diverse interests and skills contribute to a well-rounded and vibrant profile. If there's anything specific you'd like to delve into or discuss further, feel free to let me know!</p>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/annete-bosibori-963084206">
