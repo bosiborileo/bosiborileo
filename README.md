@@ -9,6 +9,7 @@
 
 ### :woman_technologist: About Me :
 - I'm currently working on *[ALX-DATASCIENCE Scholarship]* program
+- I'm currently learning AWS Cloud
 - 💬 Ask me about data analysis
 - 📫 How to reach me:*annetesamson@gmail.com*
 -    how to reach me:**[@bosiborianniie](https://twitter.com/bosiborianniie)**
