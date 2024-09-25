@@ -8,7 +8,6 @@
 </h1>
 
 ### :woman_technologist: About Me :
-- I'm currently working on *[ALX-DATASCIENCE Scholarship]* program
 - I'm currently learning AWS Cloud
 - 💬 Ask me about data analysis
 - 📫 How to reach me:*annetesamson@gmail.com*
@@ -22,7 +21,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
  <a href="https://https://www.kaggle.com/bosiboriannete?s=09">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
   </div>
   
